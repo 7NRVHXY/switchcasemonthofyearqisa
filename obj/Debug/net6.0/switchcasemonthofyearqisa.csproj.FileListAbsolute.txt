@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\bin\Debug\net6.0\switchcasemonthofyearqisa.exe
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\bin\Debug\net6.0\switchcasemonthofyearqisa.deps.json
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\bin\Debug\net6.0\switchcasemonthofyearqisa.runtimeconfig.json
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\bin\Debug\net6.0\switchcasemonthofyearqisa.dll
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\bin\Debug\net6.0\switchcasemonthofyearqisa.pdb
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\obj\Debug\net6.0\switchcasemonthofyearqisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\obj\Debug\net6.0\switchcasemonthofyearqisa.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\obj\Debug\net6.0\switchcasemonthofyearqisa.AssemblyInfo.cs
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\obj\Debug\net6.0\switchcasemonthofyearqisa.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\obj\Debug\net6.0\switchcasemonthofyearqisa.dll
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\obj\Debug\net6.0\refint\switchcasemonthofyearqisa.dll
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\obj\Debug\net6.0\switchcasemonthofyearqisa.pdb
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\obj\Debug\net6.0\switchcasemonthofyearqisa.genruntimeconfig.cache
+C:\Users\HP\source\repos\switchcasemonthofyearqisa\obj\Debug\net6.0\ref\switchcasemonthofyearqisa.dll
